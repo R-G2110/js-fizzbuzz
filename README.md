@@ -22,6 +22,6 @@ Se sei a corto di idee per lo stile, potresti prendere spunto dallo screenshot f
 
 ### Passaggi:
 1. stampare i numeri da 1 a 100.
-2. scegliere i multipli di 3 e stampare 'Fizz' 
-3. scegliere i multipli di 5 e stampare 'Buzz'
-4. scegliere i multipli siadi 3 sia di 5 e stampare 'FizzBuzz'
+2. scegliere i multipli sia di 3 sia di 5 e stampare 'FizzBuzz'
+3. scegliere i multipli di 3 e stampare 'Fizz' 
+4. scegliere i multipli di 5 e stampare 'Buzz'
