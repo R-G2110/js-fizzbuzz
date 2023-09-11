@@ -6,6 +6,12 @@
 	
 }
 
+h1 {
+	color: white;
+	font-size: 4rem;
+	font-weight: 700;
+}
+
 body {
 	background-color: #083B4C;
 }
@@ -14,22 +20,22 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  font-size: 25px;
+  font-size: 18px;
   background-color: var(--bg-box);
   width: 100px;
   height: 100px;
   margin: 10px;
 }
 
-.box.fizz {
+.fizz {
 	background-color: var(--bg-fizz);
 }
 
-.box.buzz {
+.buzz {
 	background-color: var(--bg-buzz);
 }
 
-.box.fizzbuzz {
+.fizzbuzz {
 	background-color: var(--bg-fizzbuzz);
 }
 
