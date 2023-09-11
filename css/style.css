@@ -45,6 +45,3 @@ body {
 	border-radius: 50%;
 }
 
-.fizz:hover {
-	transform: rotate(45deg);
-}
