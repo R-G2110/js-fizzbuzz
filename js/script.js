@@ -17,9 +17,9 @@ for(let i = 1; i <= 100; i++){
  //2. scegliere i multipli sia di 3 che di 5 e stampare 'FizzBuzz'
 	if(i % 3 === 0 && i % 5 === 0){
 		console.log(fizz + buzz);
-    box.classList.add('fizzbuzz');
+		box.classList.add('fizzbuzz');
 		box.append(fizz + buzz);
-		
+
 		//3.scegliere i multipli di 3 e stampare 'Fizz'
   } else  if(i % 3 === 0){
 		console.log(fizz);
@@ -29,7 +29,7 @@ for(let i = 1; i <= 100; i++){
 		//4. scegliere i multipli di 5 e stampare 'Buzz'
   } else if(i % 5 === 0){
 		console.log(buzz);
-    box.classList.add('buzz');
+		box.classList.add('buzz');
 		box.append(buzz);
 
   } else {
