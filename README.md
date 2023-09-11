@@ -17,3 +17,11 @@ Abbiamo visto qualcosa di particolare che possiamo usare?
 Crea un container nel DOM , aggiungendo (attraverso la funzione `append()`) un elemento html con il numero o la stringa corretta da mostrare.
 Applica stili differenti agli elementi aggiunti al DOM, a seconda che il valore inserito sia un numero, un fizz, un buzz o un fizzbuzz.
 Se sei a corto di idee per lo stile, potresti prendere spunto dallo screenshot fornito in consegna.
+
+
+
+### Passaggi:
+1. stampare i numeri da 1 a 100.
+2. scegliere i multipli di 3 e stampare 'Fizz' 
+3. scegliere i multipli di 5 e stampare 'Buzz'
+4. scegliere i multipli siadi 3 sia di 5 e stampare 'FizzBuzz'

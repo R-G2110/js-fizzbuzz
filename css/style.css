@@ -1,0 +1,35 @@
+:root {
+	--bg-box:      #1389B2;
+	--bg-fizz:     #0CD6A1;
+	--bg-buzz:     #FFD166;
+	--bg-fizzbuzz: #F0466F;
+	
+}
+
+body {
+	background-color: #083B4C;
+}
+
+.box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 25px;
+  background-color: var(--bg-box);
+  width: 100px;
+  height: 100px;
+  margin: 10px;
+}
+
+.box.fizz {
+	background-color: var(--bg-fizz);
+}
+
+.box.buzz {
+	background-color: var(--bg-buzz);
+}
+
+.box.fizzbuzz {
+	background-color: var(--bg-fizzbuzz);
+}
+
